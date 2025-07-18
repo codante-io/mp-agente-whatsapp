@@ -1,6 +1,6 @@
 # Agente WhatsApp – Seu próprio bot de atendimento no WhatsApp
 
-O Agente WhatsApp é um mini projeto incrível para quem quer aprender como criar um chatbot inteligente capaz de responder automaticamente perguntas e interagir com usuários no WhatsApp.
+O Agente WhatsApp é um mini projeto para quem quer aprender como criar um chatbot inteligente capaz de responder automaticamente perguntas e interagir com usuários no WhatsApp.
 
 ## 🤓 Antes de começar
 
